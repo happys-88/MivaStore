@@ -12,6 +12,6 @@
 
 ## Git Setup for adding our custom files
 
--- Grunt Setup for LESS
--- Added stylesheets, images and scripts folder as of now to start with.
--- We can add other folders as we proceed further with our actual project.
+1. Grunt Setup for LESS
+2. Added stylesheets, images and scripts folder as of now to start with.
+3. We can add other folders as we proceed further with our actual project.
